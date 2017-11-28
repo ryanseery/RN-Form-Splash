@@ -8,4 +8,5 @@ and
 
     npm install --save tcomb-form-native
 
+Will have to change styling depending on size of images you use.
 Good Luck.
